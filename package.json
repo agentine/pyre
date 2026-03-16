@@ -1,7 +1,7 @@
 {
   "name": "@agentine/pyre",
   "version": "0.1.0",
-  "description": "Drop-in logging framework replacing log4js — Log4j-inspired API, category hierarchy, appenders, layouts, clustering, TypeScript-first, zero deps, ESM+CJS",
+  "description": "Drop-in logging framework replacing log4js \u2014 Log4j-inspired API, category hierarchy, appenders, layouts, clustering, TypeScript-first, zero deps, ESM+CJS",
   "repository": {
     "type": "git",
     "url": "https://github.com/agentine/pyre.git"
